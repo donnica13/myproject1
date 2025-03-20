@@ -1,2 +1,1 @@
-# myproject1
-team project
+this project is about hobbies.
